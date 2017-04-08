@@ -1,4 +1,4 @@
-# Smart enum
+# Smart enum (deprecated version)
 [![Build Status](https://travis-ci.org/seleznevae/smart_enum.svg?branch=master)](https://travis-ci.org/seleznevae/smart_enum)
 - [Design goals](#design-goals)
 - [Examples](#examples)
