@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/seleznevae/smart_enum_deprecated.svg?branch=master)](https://travis-ci.org/seleznevae/smart_enum_deprecated)
 - [Design goals](#design-goals)
 - [Examples](#examples)
-- [License](#license)
+- [License](#license) 
 
 Smart enum is a short test library for smart enums in C++.
 Implementation is based on materials for [SMETA](http://b.atch.se/posts/constexpr-meta-container/attachments/stateful_meta_container-poc.cpp) (stateful meta-programming library) by Filip Roséen.
