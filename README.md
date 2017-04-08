@@ -1,5 +1,5 @@
 # Smart enum (deprecated version)
-[![Build Status](https://travis-ci.org/seleznevae/smart_enum.svg?branch=master)](https://travis-ci.org/seleznevae/smart_enum)
+[![Build Status](https://travis-ci.org/seleznevae/smart_enum_deprecated.svg?branch=master)](https://travis-ci.org/seleznevae/smart_enum_deprecated)
 - [Design goals](#design-goals)
 - [Examples](#examples)
 - [License](#license)
